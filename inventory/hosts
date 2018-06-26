@@ -1,2 +1,5 @@
-[user_mgmt]
+[identity-hosts]
+localhost
+
+[mail-host]
 localhost

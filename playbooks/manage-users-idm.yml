@@ -1,4 +1,5 @@
 ---
-- hosts: user_mgmt
+- hosts: identity-hosts
   roles: 
     - user-management/manage-users
+    - user-management/manage-user-passwd
