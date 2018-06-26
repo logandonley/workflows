@@ -1,2 +1,2 @@
 [user_mgmt]
-localhost ansible_connection=local
+localhost
