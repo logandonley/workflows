@@ -1,0 +1,4 @@
+---
+- hosts: user_mgmt
+  roles: 
+    - user-management/manage-users
