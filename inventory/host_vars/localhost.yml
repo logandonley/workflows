@@ -1,2 +1,9 @@
 ---
 ansible_connection: local
+users:
+  - first_name: test
+    last_name: user
+    user_name: testuser
+    email: testuser@example.com
+ipa_admin_user: admin
+ipa_admin_password: testpassword
